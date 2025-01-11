@@ -1,4 +1,4 @@
- # Puter 2api Claude Chat Widget
+# Puter 2api Claude Chat Widget
 
 一个基于 Flask 的聊天应用，提供了一个可嵌入的聊天组件，集成了Puter 2api Claude AI 接口。
 
@@ -25,8 +25,8 @@
 1. 克隆项目并进入目录：
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Master08s/Puter-2api-Claude-Chat-Widget.git
+cd Puter-2api-Claude-Chat-Widget
 ```
 
 2. 安装依赖：
@@ -167,4 +167,4 @@ A: 支持所有现代浏览器，包括 Chrome、Firefox、Safari、Edge 的最�
 
 ## 联系方式
 
-如有问题或建议，请提交 Issue。
+如有问题或建议，请提交 Issue 或通过 GitHub 仓库联系：[Puter 2api Claude Chat Widget](https://github.com/Master08s/Puter-2api-Claude-Chat-Widget)
