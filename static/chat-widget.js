@@ -1,6 +1,6 @@
 // 获取当前脚本的URL配置
 const currentScript = document.currentScript;
-const apiUrl = currentScript.getAttribute('data-api-url') || 'http://localhost:5000';
+const apiUrl = currentScript.getAttribute('data-api-url') || 'http://localhost:8501';
 
 // 创建样式
 const style = document.createElement('style');
